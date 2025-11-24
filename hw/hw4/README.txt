@@ -8,7 +8,7 @@ This program implements a multi-threaded producer/consumer system using:
 - Processes: fork()
 - Threads: POSIX pthreads
 - Inter-process communication: pipe()
-- Synchronization: mutexes (and semaphores conceptually)
+- Synchronization: mutexes
 - Signals: SIGUSR1 to coordinate between parent and child
 
 Workflow:

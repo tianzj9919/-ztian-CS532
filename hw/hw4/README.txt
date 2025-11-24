@@ -62,6 +62,6 @@ This command is equivalent to:
 - hw4_ztian.c 
 - Makefile
 - README.txt 
-- REPORT.txt 
+- report.txt 
 
 
